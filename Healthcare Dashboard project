@@ -1,0 +1,50 @@
+# Healthcare Patient Analytics Dashboard
+
+## About This Project
+
+I created this Healthcare Patient Analytics Dashboard to better understand how healthcare data can be organized and presented through interactive dashboards. The project focuses on visualizing important healthcare information related to patient demographics, clinical performance, financial metrics, and operational activities.
+
+While working on this project, I explored how dashboards can help users quickly identify trends, monitor performance, and make data-driven decisions.
+
+## Features
+
+* Patient demographics analysis
+* Clinical performance tracking
+* Financial metrics visualization
+* Operational insights dashboard
+* Interactive charts and KPI cards
+* Responsive user interface
+
+## Tools & Technologies
+
+* React
+* TypeScript
+* TanStack Start
+* Recharts
+* Tailwind CSS
+* GitHub
+* Vercel
+
+## What I Learned
+
+Through this project, I improved my skills in:
+
+* Dashboard development
+* Data visualization
+* KPI reporting
+* Healthcare analytics concepts
+* React and TypeScript
+* Git version control
+* Application deployment using Vercel
+* Debugging and troubleshooting deployment issues
+
+## Project Goal
+
+The main goal of this project was to gain hands-on experience building a modern analytics dashboard and presenting healthcare information in a clear and meaningful way.
+
+## Author
+
+Durga Yamini Datti
+
+MS in Information Technology Management
+Webster University
